@@ -2648,10 +2648,10 @@
 							<rotationOffset>30</rotationOffset>
 						</dataEast>
 						<dataSouth>
-							<offset>(0.1, 0, -0.2)</offset>
+							<offset>(0.1, 0.05, -0.2)</offset>
 						</dataSouth>
 						<dataWest>
-							<offset>(0, 0, -0.2)</offset>
+							<offset>(0, 0.05, -0.2)</offset>
 							<rotationOffset>-30</rotationOffset>
 						</dataWest>
 					</drawData>
@@ -2774,10 +2774,10 @@
 							<rotationOffset>30</rotationOffset>
 						</dataEast>
 						<dataSouth>
-							<offset>(0.1, 0, -0.2)</offset>
+							<offset>(0.1, 0.05, -0.2)</offset>
 						</dataSouth>
 						<dataWest>
-							<offset>(0, 0, -0.2)</offset>
+							<offset>(0, 0.05, -0.2)</offset>
 							<rotationOffset>-30</rotationOffset>
 						</dataWest>
 					</drawData>

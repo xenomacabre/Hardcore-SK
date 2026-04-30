@@ -96,6 +96,13 @@
 		</operations>
 	</Operation>
 
+	<Operation Class="PatchOperationAdd">
+		<xpath>Defs/ThingDef[defName="Brazier"]/stuffCategories</xpath> 
+		<value>
+		   <li>HF</li>
+		</value>
+	</Operation>
+
 	<Operation Class="PatchOperationSequence">
 		<success>Always</success>
 		<operations>
